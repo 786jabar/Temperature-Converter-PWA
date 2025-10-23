@@ -1,0 +1,17 @@
+{
+  "name": "Temperature Converter App",
+  "short_name": "TempConvert",
+  "lang": "en-US",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2f65ff",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
